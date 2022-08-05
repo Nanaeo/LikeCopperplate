@@ -3,6 +3,11 @@
 
 ornamental penmanship generate tool
 
+[![](https://img.shields.io/github/license/MliKiowa/LikeCopperplate?style=flat-square)](https://github.com/MliKiowa/LikeCopperplate/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/MliKiowa/LikeCopperplate?style=flat-square)](https://github.com/MliKiowa/LikeCopperplate/issues)
+[![GitHub forks](https://img.shields.io/github/forks/MliKiowa/LikeCopperplate?style=flat-square)](https://github.com/MliKiowa/LikeCopperplate/network)
+[![GitHub stars](https://img.shields.io/github/stars/MliKiowa/LikeCopperplate?style=flat-square)](https://github.com/MliKiowa/LikeCopperplate/stargazers)
+
 ## Explain 说明
 工具生成的英文花体为unicode编码并非使用字体实现
 
